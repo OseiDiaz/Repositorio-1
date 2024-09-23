@@ -29,4 +29,6 @@ int main()
         printf("hay una solucion real e igual");
     if (num < 0)
         printf("hay dos soluciones imaginarias");
+
+    printf("Gracias por utilizar este programa");
 }
