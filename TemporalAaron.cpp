@@ -1,7 +1,7 @@
 #include <iostream>
 int main()
 {
-    //PROGRAMA PARA LA FORMULA GENERAL
+    //PROGRAMA PARA LA FORMULA GENERAl
     float a, b, c, num, X1, X2, division, multi1, resultado1, resultado2, raiz, raiz2, multi2;
     a > 0;
     printf("Introdusca el valor de a: ");
@@ -29,4 +29,6 @@ int main()
         printf("hay una solucion real e igual");
     if (num < 0)
         printf("hay dos soluciones imaginarias");
+
+    printf("Gracias por utilizar este programa");
 }
