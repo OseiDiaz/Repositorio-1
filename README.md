@@ -1,2 +1,2 @@
-# Repositorio-1
-Este repositorio es temporal
+# Datos
+Garces Diaz Gustavo Osei
