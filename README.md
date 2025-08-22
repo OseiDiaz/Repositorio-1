@@ -1,2 +1,2 @@
 # Datos
-Garces Diaz Gustavo Osei
+este archivo contiene datos del alumno 
